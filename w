@@ -1,1 +1,1 @@
-whoami
+bash -c 'whoami'
