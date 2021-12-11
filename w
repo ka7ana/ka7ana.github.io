@@ -1,1 +1,1 @@
-bash -c 'whoami'
+hostname
